@@ -224,7 +224,7 @@
   <Text Key="Multiple_Images">Více obrázků</Text>
   <Text Key="Size">Velikost</Text>
   <Text Key="Click_To_View_Full_Size">Klikněte pro zobrazení plné vlikosti</Text>
-  <Text Key="Album_Artists">Autor alba</Text>
+  <Text Key="Album_Artists">Autoři alba</Text>
   <Text Key="Track_Count">Počet skladeb</Text>
   <Text Key="Disc_Number">Disk číslo</Text>
   <Text Key="Disc_Count">Počet disků</Text>
@@ -326,7 +326,7 @@
   <Text Key="Sign_Out">Sign out</Text>
   <Text Key="Signed_In">Signed in</Text>
   <Text Key="Sign_In_Failed">Sign in failed</Text>
-  <Text Key="Artist_Information">Informace o umělci</Text>
+  <Text Key="Artist_Information">Informace o autorovi</Text>
   <Text Key="Biography">Biografie</Text>
   <Text Key="Similar">Podobné</Text>
   <Text Key="Not_Available">Není dostupné</Text>
@@ -352,7 +352,7 @@
   <Text Key="Add_Lyrics">Přidat texty</Text>
   <Text Key="Save_In_Audio_File">Save in audio file</Text>
   <Text Key="Download_Lyrics_Automatically">Stahovat texty automaticky</Text>
-  <Text Key="Download_Artist_Information_From_Lastfm_Automatically">Download artist information from Last.fm automatically</Text>
+  <Text Key="Download_Artist_Information_From_Lastfm_Automatically">Automaticky stáhnout informace o autorovi z Last.fm</Text>
   <Text Key="Username">Uživatelské jméno</Text>
   <Text Key="Password">Heslo</Text>
   <Text Key="Search_Again">Search again</Text>
